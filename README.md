@@ -99,6 +99,7 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
   - [Question: How to choose between Redux's store and React's state?](https://github.com/reactjs/redux/issues/1287)
   - [Encapsulation in Redux: the Right Way to Write Reusable Components](https://blog.javascripting.com/2016/02/02/encapsulation-in-redux/)
 - Organization
+    - [Organizing State](https://redux.js.org/docs/faq/OrganizingState.html)
     - [Where should my “business logic” go?](https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1)
     - [Where do I put my business logic in a React-Redux application?](https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1)
     - https://github.com/erikras/ducks-modular-redux
