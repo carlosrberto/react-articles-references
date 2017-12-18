@@ -157,6 +157,7 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
 - [Why care about functional programming? Part 1: Immutability](https://miles.no/blogg/why-care-about-functional-programming-part-1-immutability)
 - [What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)-
 - [What is Thunk](https://www.wikiwand.com/en/Thunk)
+- [Functional Programming In JavaScript — With Practical Examples (Part 1) (Functors, Monads)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
 ### Immutability
 - [Efficient implementation of immutable (double) LinkedList](https://stackoverflow.com/questions/10045446/efficient-implementation-of-immutable-double-linkedlist)
