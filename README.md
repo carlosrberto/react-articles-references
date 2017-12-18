@@ -120,6 +120,7 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
 - [redux-saga - Saga Middleware for Redux to Handle Side Effects - Interview with Yassine Elouafi](https://survivejs.com/blog/redux-saga-interview/)
 - [JavaScript Power Tools: Redux-Saga](https://formidable.com/blog/2017/javascript-power-tools-redux-saga/)
 - Discussions
+  - [Question: Authentication flow](https://github.com/redux-saga/redux-saga/issues/14)
   - [Different ways to watch actions](https://github.com/redux-saga/redux-saga/issues/684)
   - [https://stackoverflow.com/questions/34930735/pros-cons-of-using-redux-saga-with-es6-generators-vs-redux-thunk-with-es7-async](https://stackoverflow.com/questions/34930735/pros-cons-of-using-redux-saga-with-es6-generators-vs-redux-thunk-with-es7-async)
   - [How to cancel "all"?](https://github.com/redux-saga/redux-saga/issues/988)
