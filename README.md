@@ -110,6 +110,7 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
   - https://github.com/erikras/multireducer
   - https://github.com/DataDog/redux-doghouse
 - Convention
+  - [Where to write to localStorage in a Redux app?](https://stackoverflow.com/questions/35305661/where-to-write-to-localstorage-in-a-redux-app
   - [A Simple Naming Convention for Action Creators in Redux.js](https://decembersoft.com/posts/a-simple-naming-convention-for-action-creators-in-redux-js/)
 
 ### Redux Saga
