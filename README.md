@@ -245,7 +245,8 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
 - https://github.com/mafintosh/is-my-json-valid
 - https://codemix.github.io/flow-runtime/#/
 
-### React 
+### React
+- https://github.com/atlassian/react-beautiful-dnd (drag-drop)
 - https://github.com/paypal/react-autocompletely (autocomplete)
 - https://github.com/souporserious/react-tether (overlays)
 
