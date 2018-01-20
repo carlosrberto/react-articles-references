@@ -20,7 +20,8 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
     - [Webpack](#webpack)
 - [CSS](#css)
     - [CSS Modules](#css-modules)
-    - [Grid System](#grid-systems)
+    - [Grid System](#grid-systems)
+
 - [Environment](#environment)
 - [Shell](#shell)
 - [Server-side](#server-side)
