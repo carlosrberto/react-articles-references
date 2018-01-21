@@ -20,6 +20,7 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
     - [Webpack](#webpack)
 - [CSS](#css)
     - [CSS Modules](#css-modules)
+    - [Sass](#sass)    
     - [Grid System](#grid-systems)
 
 - [Environment](#environment)
@@ -215,6 +216,10 @@ A list of topics to study before implementing a **large** and **scalable** **Rea
 - [CSS Modules by Example](https://www.andrewhfarmer.com/css-modules-by-example/)
 - [CSS Modules — Solving the challenges of CSS at scale](https://medium.com/front-end-developers/css-modules-solving-the-challenges-of-css-at-scale-85789980b04f)
 - [CSS Modules - Welcome to the Future](https://glenmaddern.com/articles/css-modules)
+
+### Sass
+- https://github.com/shakacode/sass-resources-loader (to load sass mixins, functions, etc in every file)
+
 
 ### Grid Systems
 - http://gridlex.devlint.fr/
